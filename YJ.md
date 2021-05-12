@@ -3,6 +3,6 @@
 name: Your Name
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: YJ.github.io
+avatar: [YJ.github.io]
 
-github: YJ/YJ.github.io
+github: [YJ/YJ.github.io]
